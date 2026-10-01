@@ -39,7 +39,6 @@ If you want a *low-spam* way to follow what the team is doing. We post a status 
 
 Some of the best ways to contribute are to try things out, file issues, join in design conversations, and make pull-requests.
 
-- Download our latest daily builds
 - Try tutorials and working with your own projects
 - Log issues if you find problems, or if you have suggestions.
 - Log an issue if you have feedback you want to share with the team.
